@@ -13,5 +13,5 @@ $ pip install ephem
 
 ## Notes
 
-Code is as-is and should mainly be used for eductions vs. actual spacecraft communications.
+Code is as-is and should mainly be used for education vs. actual spacecraft communications.
 
